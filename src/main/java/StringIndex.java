@@ -2,7 +2,7 @@ public class StringIndex {
 
 
         public static void main(String[] args) {
-            String s = "example";
+            String s = "String";
 
             try {
                 String substring = s.substring(2, 8); // throws StringIndexOutOfBoundsException
